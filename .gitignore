@@ -1,0 +1,26 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+out/
+*.log
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+.vscode/
+
+# OS
+.DS_Store
+
+# Tools
+.dotnet/
+
+# Secrets / env
+*.env
+app.db
+/coverage/
+/TestResults/
+
+# Rider/IDEA
+.idea/
